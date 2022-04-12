@@ -40,6 +40,8 @@ p {
 #landing {
     display: flex;
     background-color: #1f2937;
+    justify-content: center;
+    align-items: center;
 }
 .title {
     color: #f9faf8;
